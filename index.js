@@ -21,6 +21,6 @@ module.exports = {
     "space-before-function-paren": ["error", "never"],
     "space-infix-ops": ["error", { "int32Hint": false }],
     "spaced-comment": ["error"],
-    "vars-on-top": "error",
+    "vars-on-top": "error"
   }
 };
