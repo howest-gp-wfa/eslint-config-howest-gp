@@ -1,5 +1,5 @@
 {
-  "name": "@howest/eslint-config-howest-gp",
+  "name": "@howest-gp/eslint-config-howest-gp",
   "version": "1.0.0",
   "description": "Eslint config for howest graduaat programmeren students",
   "main": "index.js",
