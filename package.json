@@ -1,0 +1,15 @@
+{
+  "name": "@howest/eslint-config-howest-gp",
+  "version": "1.0.0",
+  "description": "Eslint config for howest graduaat programmeren students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Howest GP",
+  "license": "ISC"
+}
