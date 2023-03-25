@@ -10,6 +10,9 @@
     "eslint",
     "eslintconfig"
   ],
+  "peerDependencies": {
+    "eslint": "^8.36.0"
+  },
   "author": "Howest GP",
   "license": "ISC"
 }
